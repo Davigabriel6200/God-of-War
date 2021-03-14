@@ -53,7 +53,7 @@
   <h1>Apresentação versão mobile</h1>
 
 <div align="center">
-  <img src="./imagens/Apresentação- mobile.png" width="80000px"/>
+  <img src="./imagens/Apresentação Mobile.png" width="80000px"/>
 </div>
 
 </br>
